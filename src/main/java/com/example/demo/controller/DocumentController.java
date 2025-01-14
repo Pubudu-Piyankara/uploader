@@ -17,7 +17,7 @@ public class DocumentController {
     private final List<Document> documentList = new ArrayList<>();
 
     @GetMapping("/")
-    public  void hello() {
+    public void hello() {
         ApiResponse res = new ApiResponse();
         res.setResponse("Welcome");
         res.setStatus(true);
