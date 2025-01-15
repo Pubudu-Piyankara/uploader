@@ -26,7 +26,7 @@ public class Document {
         this.uploadDate = uploadDate;
     }
 
-    public Document(){
+    public Document() {
 
     }
 

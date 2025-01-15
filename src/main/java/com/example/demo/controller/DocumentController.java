@@ -18,6 +18,7 @@ public class DocumentController {
 
     @GetMapping("/")
     public void hello() {
+
         ApiResponse res = new ApiResponse();
         res.setResponse("Welcome");
         res.setStatus(true);
