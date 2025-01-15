@@ -1,0 +1,74 @@
+[33mcommit 0a4540e6a3be1bc07430369a803e645ef66b4de2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelopment[m[33m)[m
+Author: Pubudu-Piyankara <pubudupiyankara.me@gmail.com>
+Date:   Tue Jan 14 23:24:11 2025 +0530
+
+    Removed sensitive data from history
+
+.gitignore
+
+[33mcommit e6917c0902a6d619861f45113527bfa46e1a8d52[m
+Author: Pubudu-Piyankara <pubudupiyankara.me@gmail.com>
+Date:   Tue Jan 14 23:13:31 2025 +0530
+
+    git ignore
+
+.gitignore
+
+[33mcommit 6ecfa1fdc7822487553f37f96b81e7c2e9528c96[m
+Author: Pubudu-Piyankara <pubudupiyankara.me@gmail.com>
+Date:   Tue Jan 14 23:04:10 2025 +0530
+
+    git ignore
+
+.gitignore
+
+[33mcommit 1a859470920c04f6027efb76aba273f487d148f4[m
+Author: Pubudu-Piyankara <pubudupiyankara.me@gmail.com>
+Date:   Tue Jan 14 22:28:18 2025 +0530
+
+    postman testing
+
+src/main/java/com/example/demo/controller/DocumentController.java
+
+[33mcommit de119177e7dd4afd09bbe8d0cdadd07618c35d2e[m
+Author: Pubudu-Piyankara <pubudupiyankara.me@gmail.com>
+Date:   Tue Jan 14 22:27:27 2025 +0530
+
+    First commit
+
+cred.json
+pom.xml
+src/main/java/com/example/demo/MainController.java
+src/main/java/com/example/demo/controller/DocumentController.java
+src/main/java/com/example/demo/model/ApiResponse.java
+src/main/java/com/example/demo/model/Document.java
+src/main/java/com/example/demo/repository/DocumentRepository.java
+src/main/java/com/example/demo/service/DocumentInterface.java
+src/main/java/com/example/demo/service/DocumentService.java
+
+[33mcommit e58df593fae3ca3996947d9aba06a3337cfa739e[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Pubudu-Piyankara <pubudupiyankara.me@gmail.com>
+Date:   Mon Jan 13 22:19:38 2025 +0530
+
+    First commit
+
+src/main/java/com/example/demo/service/DocumentService.java
+
+[33mcommit a59a158c57fa89ce983cf584866fea55160ce2ef[m
+Author: Pubudu-Piyankara <pubudupiyankara.me@gmail.com>
+Date:   Mon Jan 13 22:18:10 2025 +0530
+
+    First commit
+
+.gitattributes
+.gitignore
+.mvn/wrapper/maven-wrapper.properties
+mvnw
+mvnw.cmd
+pom.xml
+src/main/java/com/example/demo/DemoApplication.java
+src/main/java/com/example/demo/MainController.java
+src/main/java/com/example/demo/model/Document.java
+src/main/java/com/example/demo/service/DocumentService.java
+src/main/resources/application.properties
+src/test/java/com/example/demo/DemoApplicationTests.java
