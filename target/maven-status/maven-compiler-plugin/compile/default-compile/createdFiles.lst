@@ -1,0 +1,7 @@
+com\example\demo\MainController.class
+com\example\demo\DemoApplication.class
+com\example\demo\controller\DocumentController.class
+com\example\demo\service\DocumentInterface.class
+com\example\demo\service\DocumentService.class
+com\example\demo\repository\DocumentRepository.class
+com\example\demo\model\Document.class
