@@ -1,4 +1,3 @@
-com\example\demo\MainController.class
 com\example\demo\DemoApplication.class
 com\example\demo\controller\DocumentController.class
 com\example\demo\service\DocumentInterface.class

@@ -26,7 +26,6 @@ public class DocumentController {
 
     @GetMapping("/api")
     public List<Document> getAllDocuments() {
-
         return documentService.getAllDocuments();
     }
 
